@@ -1,10 +1,7 @@
 /node_modules/
-/Backend/Database/Config.js
 /frontend/node_modules
 /frontend/README.md
-
 /frontend/.pnp
-
 /frontend/coverage
-
 /frontend/build
+/.env
