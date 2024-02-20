@@ -1,0 +1,26 @@
+{
+  "name": "frontendside",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "dotenv -e C:/Users/id795/OneDrive/Documents/GitHub/listbackfront/.env react-scripts start",
+    "dev": "next dev",
+    "build": "next build",
+    "lint": "next lint",
+    "tailwind": "tailwindcss -i ./src/styles/styles.css -o ./public/tailwind.css"
+  },
+  "dependencies": {
+    "next": "14.1.0",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "autoprefixer": "^10.0.1",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
